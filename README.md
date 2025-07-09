@@ -1,6 +1,3 @@
-# TestAutomationProject
-This is an assigned task from Smart Cube
-
 ava BDD SQA Automation Framework
 
 Overview
