@@ -1,7 +1,7 @@
 # TestAutomationProject
 This is an assigned task from Smart Cube
 
-Java BDD SQA Automation Framework
+ava BDD SQA Automation Framework
 
 Overview
 
@@ -40,7 +40,7 @@ Step 2: Sync pom.xml
 ### Step 3: Run Tests via Features file
 
 1. Navigate to the following path:
-   src/test/java/features/
+   src/main/java/features/
    Select the feature you want to run or you cal select all the features to run at once
 
 Step 4: Run the Tests
@@ -51,6 +51,8 @@ Step 5:Check  console log for results
 Here is how to do it via git hub:
 
 i will provide you a link of my git, its recommended to clone the repo.
+
+
 
 
 ### Step 1: Clone the Repository
@@ -73,7 +75,7 @@ Click "Import Maven Project" or "Load Maven Changes".
 Wait for Maven to download all dependencies.
 Step 4: Run the Tests
 Navigate to:
-src/test/java/feature/
+src/main/java/feature/
 Right-click on features and select Run to execute the tests.
 
 Step 4: Run the Tests
